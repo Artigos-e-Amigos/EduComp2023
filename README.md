@@ -34,7 +34,9 @@ Palavras-chave: Análise de Dados, Diversidade, Computação, Tecnologias da Inf
 ### ARTIGO COMPLETO
 [23876-1982-19397-1-10-20230317.pdf](https://github.com/Artigos-e-Amigos/EduComp2023/files/11082594/23876-1982-19397-1-10-20230317.pdf)
 
-### REFERÊNCIAS
+
+<details>
+<summary>### REFERÊNCIAS</summary>
 
 Silvia Virginia Coutinho Areosa, Cristiane Redin Freitas, Melissa Lampert, and Cláudia Tirelli. 2016. Envelhecimento ativo: um panorama do ingresso de idosos na universidade. Reflexão e Ação 24, 3, 212–228.
 
@@ -85,3 +87,4 @@ UNESCO. 2022. UNESCO research shows women career scientists still face gender bi
 Chyanna Wee and Kian Meng Yap. 2021. Gender diversity in computing and immersive games for computer programming education: a review. International Journal of Advanced Computer Science and Applications 12, 5.
 
 X. Wei, E. R. A. Christiano, J. W.. Yu, J. Blackorby, P. Shattuck, and L. Newman. 2014. A comparison of postsecondary science, technology, engineering, and mathematics (STEM) enrollment for students with and without disabilities. Postsecondary pathways and persistence for STEM versus non-STEM majors: Among college students with an autism spectrum disorder. Journal of Autism and Developmental Disorders 44, 1159–1167.
+</details>
