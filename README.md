@@ -8,7 +8,6 @@ Panorama da diversidade nos cursos presenciais de Computação e Tecnologias da 
 
 ### AUTORES
 Maria Teresa Silva Santos - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0001-8093-2446
-
 Laís Pisetta Van Vossen - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0002-1725-0618
 Daniella Martins Vasconcellos - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0001-9250-8116
 Guilherme Tomaselli Borchardt - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0002-7809-0590
