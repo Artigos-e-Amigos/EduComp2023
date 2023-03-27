@@ -36,7 +36,7 @@ Palavras-chave: Análise de Dados, Diversidade, Computação, Tecnologias da Inf
 
 
 <details>
-<summary>### REFERÊNCIAS</summary>
+<summary>REFERÊNCIAS</summary>
 
 Silvia Virginia Coutinho Areosa, Cristiane Redin Freitas, Melissa Lampert, and Cláudia Tirelli. 2016. Envelhecimento ativo: um panorama do ingresso de idosos na universidade. Reflexão e Ação 24, 3, 212–228.
 
