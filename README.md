@@ -35,7 +35,7 @@ Palavras-chave: Análise de Dados, Diversidade, Computação, Tecnologias da Inf
 [23876-1982-19397-1-10-20230317.pdf](https://github.com/Artigos-e-Amigos/EduComp2023/files/11082594/23876-1982-19397-1-10-20230317.pdf)
 
 ### REFERÊNCIAS
-<sumary>oi</sumary>
+
 Silvia Virginia Coutinho Areosa, Cristiane Redin Freitas, Melissa Lampert, and Cláudia Tirelli. 2016. Envelhecimento ativo: um panorama do ingresso de idosos na universidade. Reflexão e Ação 24, 3, 212–228.
 
 Gersem Baniwa. 2013. Lei das Cotas e os povos indígenas: mais um desafio para a diversidade. Cadernos de Pensamento Crítico Latino-Americano 34, 18–21.
