@@ -3,9 +3,10 @@ EduComp 2023: Analise de Dados Diversidade Computação e Tecnologias da Informa
 
 2023: ANAIS DO III SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO
 
-ARTIGOS DE PESQUISA
+### ARTIGOS DE PESQUISA
 Panorama da diversidade nos cursos presenciais de Computação e Tecnologias da Informação e Comunicação das universidades públicas de Santa Catarina
 
+### AUTORES
 Maria Teresa Silva Santos - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0001-8093-2446
 Laís Pisetta Van Vossen - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0002-1725-0618
 Daniella Martins Vasconcellos - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0001-9250-8116
@@ -15,14 +16,18 @@ Eric Carvalho da Silveira - Universidade do Estado de Santa Catarina - https://o
 Marily Dilamar da Silva - Universidade Federal de Santa Catarina - https://orcid.org/0000-0002-2322-4504
 Isabela Gasparini - Universidade do Estado de Santa Catarina - https://orcid.org/0000-0002-8094-9261
 
-DOI: https://doi.org/10.5753/educomp.2023.228188
+### DOI
+https://doi.org/10.5753/educomp.2023.228188
 
-RESUMO
+### RESUMO
 Entende-se diversidade como a pluralidade de indivíduos que contribuem para a produção de soluções mais criativas, coletivas e assertivas. Dentro dos Objetivos de Desenvolvimento Sustentável da ONU, a diversidade na educação é uma das metas a se atingir para garantir o acesso à educação inclusiva, de qualidade e equitativa, e promover oportunidades de aprendizagem para todos. Assim, este artigo busca compreender o cenário da diversidade a partir dos dados do INEP dos anos de 2015 a 2019, levantando, dentro do escopo dos cursos presenciais de Computação e Tecnologias da Informação e Comunicação das universidades públicas, todos os estudantes matriculados considerando seus aspectos de diversidade, como sexo, idade, forma de ingresso, deficiência, cor e raça com um recorte demográfico de Santa Catarina. Os resultados do levantamento deste cenário podem contribuir para a formação de novas políticas públicas e auxiliarem na promoção da inclusão e acessibilidade dos estudantes.
 
 Palavras-chave: Análise de Dados, Diversidade, Computação, Tecnologias da Informação e Comunicação
 
-REFERÊNCIAS
+### ARTIGO COMPLETO
+[23876-1982-19397-1-10-20230317.pdf](https://github.com/Artigos-e-Amigos/EduComp2023/files/11082594/23876-1982-19397-1-10-20230317.pdf)
+
+### REFERÊNCIAS
 Silvia Virginia Coutinho Areosa, Cristiane Redin Freitas, Melissa Lampert, and Cláudia Tirelli. 2016. Envelhecimento ativo: um panorama do ingresso de idosos na universidade. Reflexão e Ação 24, 3, 212–228.
 
 Gersem Baniwa. 2013. Lei das Cotas e os povos indígenas: mais um desafio para a diversidade. Cadernos de Pensamento Crítico Latino-Americano 34, 18–21.
@@ -72,6 +77,3 @@ UNESCO. 2022. UNESCO research shows women career scientists still face gender bi
 Chyanna Wee and Kian Meng Yap. 2021. Gender diversity in computing and immersive games for computer programming education: a review. International Journal of Advanced Computer Science and Applications 12, 5.
 
 X. Wei, E. R. A. Christiano, J. W.. Yu, J. Blackorby, P. Shattuck, and L. Newman. 2014. A comparison of postsecondary science, technology, engineering, and mathematics (STEM) enrollment for students with and without disabilities. Postsecondary pathways and persistence for STEM versus non-STEM majors: Among college students with an autism spectrum disorder. Journal of Autism and Developmental Disorders 44, 1159–1167.
-
-ARTIGO COMPLETO
-[23876-1982-19397-1-10-20230317.pdf](https://github.com/Artigos-e-Amigos/EduComp2023/files/11082594/23876-1982-19397-1-10-20230317.pdf)
